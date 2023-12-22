@@ -439,6 +439,11 @@ section {
     }
 }
 
+.charts {
+    aspect-ratio: 1.5;
+    width: 80vw;
+}
+
 :root {
     background-color: #f7f6f4;
     font-size: 16px
